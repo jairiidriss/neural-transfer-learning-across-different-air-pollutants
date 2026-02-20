@@ -20,9 +20,7 @@ The objective of this work is to improve **air pollutant concentration predictio
 
 ---
 
-## Dataset
 
-The experiments are conducted on air quality monitoring datasets including multiple pollutant concentrations and meteorological variables such as:
 ## Dataset
 
 This work uses the **Beijing Multi-Site Air Quality** dataset, including measurements from the Aotizhongxin monitoring station.  
